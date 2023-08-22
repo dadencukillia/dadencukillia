@@ -11,3 +11,8 @@ The site has:
 ### I recommend taking a closer look at the following projects 🔍
 - **GijzaFiler**: [GitHub](https://github.com/dadencukillia/Gijzafiler-golang) | [Page](https://devlog.pythonanywhere.com/project/id8/)
 - **Numerator**: [Page](https://devlog.pythonanywhere.com/project/id6/)
+- **githubRater**: [Github](https://github.com/dadencukillia/githubRater) | [API](http://ec2-16-170-205-215.eu-north-1.compute.amazonaws.com/)
+
+### Github rater
+I created a service called github rater. Here are my results:
+<p align="center"><img width="720" src="http://ec2-16-170-205-215.eu-north-1.compute.amazonaws.com/dadencukillia"></p>
