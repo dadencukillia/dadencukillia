@@ -15,7 +15,8 @@ I am open to communication, so you can write to me using any of these methods:<b
 
 ## 🔍 Projects
 I have no a lot of public repos. But there will be a lot of awesome projects soon. Here's what we have now:<br><br>
-[`⭐ animeplayerua`](https://github.com/dadencukillia/animeplayerua)
+[`🥺 pupsiks-ukraine`](https://github.com/dadencukillia/pupsiks-ukraine)
+[`⭐ animeplayerua`](https://github.com/dadencukillia/animeplayerua)<br>
 [`💬 threadhelp`](https://github.com/dadencukillia/threadhelp)
 [`🛜 hypeql`](https://github.com/dadencukillia/hypeql)
 [`📟 linyhi`](https://github.com/dadencukillia/linyhi)
