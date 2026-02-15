@@ -25,6 +25,6 @@ I have no a lot of public repos. But there will be a lot of awesome projects soo
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dadencukillia&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="my top programming languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadencukillia&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="my github stars">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dadencukillia&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="my top programming languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dadencukillia&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="my github stars">
 </div>
