@@ -28,3 +28,7 @@ I have no a lot of public repos. But there will be a lot of awesome projects soo
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dadencukillia&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="my top programming languages">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=dadencukillia&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="my github stars">
 </div>
+
+<div align="center">
+  <img src="https://crocobystats.vercel.app/waka_badge?label=WakaTime&logo=wakatime&style=flat-square&color=151515&logoColor=white&labelColor=527da4" alt="wakatime stats">
+</div>
