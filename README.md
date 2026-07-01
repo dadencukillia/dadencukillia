@@ -3,7 +3,7 @@
 # Hey there 👋
 
 ## 🥸 About me
-My name is Ilya, I live in Ukraine. I'm learning backend for professional purposes, additionally using frontend frameworks by the way (but I'm not strong in frontend). Also, a low level enjoyer. I have been using Arch Linux for 3 years, but in 2026 installed and configured a NixOS system, so I use NixOS btw. My most widely used programming languages: `Golang` (strong knowledges), `Rust` (strong knowledges), and `TypeScript` (frontend purposes). Also open to using other programming languages in my pet projects. A lot projects here (GitHub) were created for education purposes, so if any project interests you, it's probably dropped by the moment it exhausted my development potential, but you can freely fork it and continue development by the license conditions.
+My name is Ilya, I live in Ukraine. I'm learning backend for professional purposes, additionally using frontend frameworks by the way (but I'm not so strong in frontend as in backend). Also, a low level enjoyer. I have been using Arch Linux for 3 years, but in 2026 installed and configured a NixOS system, so I use NixOS btw. My most widely used programming languages: `Golang` (strong knowledges), `Rust` (strong knowledges), and `TypeScript` (frontend purposes). Also open to using other programming languages in my pet projects. A lot projects here (GitHub) were created for education purposes, so if any project interests you, it's probably dropped by the moment it exhausted my development potential, but you can freely fork it and continue development by the license conditions.
 
 ### 📞 Contacts
 I'm open to communication, so you can write to me using any of these methods:<br><br>
